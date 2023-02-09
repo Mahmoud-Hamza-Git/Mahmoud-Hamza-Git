@@ -45,10 +45,10 @@
   <summary><h3>📫 Reach me</h3></summary>
    <br>
    <p align="center">
-      <a href="https://www.linkedin.com/in/mahmoud-hamza2022/" target="blank">
+      <a href="https://www.linkedin.com/in/mahmoud-hamza2022/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-Hamza-blue?style=flat&logo=Linkedin&logoColor=white" height="40"/>
       </a>
-      <a href="https://mailto:mahmoud.hamza.ce@gmailcom" target="blank">
+      <a href="https://mailto:mahmoud.hamza.ce@gmail.com" target="_blank">
          <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
       </a>
    </p>
