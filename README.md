@@ -5,6 +5,9 @@
 - 👯 I'm passionate about learning new technologies.
 - 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-Hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-hamza2022/)
 
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;)](https://git.io/typing-svg)
 
 ---
 
