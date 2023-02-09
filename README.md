@@ -3,16 +3,20 @@
 - 🔭 I'm a Computer Engineering student.
 - 🌱 I love spend time solving coding problems.
 - 😊 I'm passionate about learning new technologies.
-- 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-Hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-hamza2022/)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👷‍♂️Software+Engineer;💻+currently+learning+node.js+and+react.js&width=500)](https://git.io/typing-svg)
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there👋+i'm+Hamza,+I'm+a+👷‍♂️Software+Engineer;💻+currently+learning+node.js+and+react.js&width=540&duration=6000&center=true"></a>
+</p>
 
----
+<br>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<h2 align="center"> :hammer_and_wrench: Languages and Tools :</h2>
+
+<br>
+
+<div align="center" >
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="JS" width="60" height="60"/>&emsp;&emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" **alt="C++" width="60" height="60"/>&emsp;&emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" **alt="html5" width="60" height="60"/>&emsp;&emsp;
@@ -24,10 +28,28 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" **alt="git" width="60" height="60"/>&emsp;&emsp;
 </div>
 
----
+<br><br>
 
-### :fire: My Stats :
+<h2 align="center"> :fire: My GitHub Stats :</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Hamza-Git&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Hamza-Git&theme=holi-theme&mode=weekly)](https://git.io/streak-stats)
+<div align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats" display='block'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Hamza-Git&layout=compact&theme=radical"></a> <br><br>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Hamza-Git&theme=holi-theme&mode=weekly"></a>
+<div/>
+   
+<br>
+   
+<details>
+  <summary><h3>📫 Reach me</h3></summary>
+   <br>
+   <p align="center">
+      <a href="https://www.linkedin.com/in/mahmoud-hamza2022/" target="blank">
+         <img align="center" src="https://img.shields.io/badge/-Hamza-blue?style=flat&logo=Linkedin&logoColor=white" height="40"/>
+      </a>
+      <a href="https://mailto:mahmoud.hamza.ce@gmailcom" target="blank">
+         <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+      </a>
+   </p>
+</details>
