@@ -48,7 +48,7 @@
       <a href="https://www.linkedin.com/in/mahmoud-hamza2022/" target="_blank">
          <img align="center" src="https://img.shields.io/badge/-Hamza-blue?style=flat&logo=Linkedin&logoColor=white" height="40"/>
       </a>
-      <a href="https://mailto:mahmoud.hamza.ce@gmail.com" target="_blank">
+      <a href="maillto:mahmoud.hamza.ce@gmail.com" target="_blank">
          <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white" height="40"/>
       </a>
    </p>
