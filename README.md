@@ -19,13 +19,13 @@
 <div align="center" >
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="JS" width="60" height="60"/>&emsp;&emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" **alt="C++" width="60" height="60"/>&emsp;&emsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" **alt="html5" width="60" height="60"/>&emsp;&emsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" **alt="HTML5" width="60" height="60"/>&emsp;&emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" **alt="CSS" width="60" height="60"/>&emsp;&emsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="CSS" **alt="CSS" width="60" height="60"/>&emsp;&emsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" **alt="Node.js" width="60" height="60"/>&emsp;&emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="60" height="60"/>&emsp;&emsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React-js" **alt="React" width="60" height="60"/>&emsp;&emsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="mysql" **alt="mysql" width="60" height="60"/>&emsp;&emsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" **alt="git" width="60" height="60"/>&emsp;&emsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" **alt="React.js" width="60" height="60"/>&emsp;&emsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" **alt="MySQL" width="60" height="60"/>&emsp;&emsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="60" height="60"/>&emsp;&emsp;
 </div>
 
 <br><br>
