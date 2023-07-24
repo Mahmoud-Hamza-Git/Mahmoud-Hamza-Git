@@ -16,8 +16,8 @@
 <div align="center">
 
 |  **Portfolio** ✨ | **CV** 📑 |
-| ----  | ----- |
-|  https://hamza-portfolio-page.netlify.app/ |  https://hamza-portfolio-page.netlify.app/ |
+| :-----------------:  | :---------: |
+|  https://hamza-portfolio-page.netlify.app/ |  https://drive.google.com/file/d/1vtzDZ4nYpQvkhOBaM-aJC2cDVLUWRc-r/view?usp=drive_link |
    
 </div>
 
