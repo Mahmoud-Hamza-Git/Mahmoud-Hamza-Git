@@ -1,6 +1,7 @@
 
 ### 👨‍💻 About Me :
-- 🔭 I'm a Computer Engineering student.
+- 🔭 I'm a fresh graduate software engineer.
+- 🌱 I`m a junior software developer.
 - 🌱 I love spend time solving coding problems.
 - 😊 I'm passionate about learning new technologies.
 
@@ -11,6 +12,17 @@
 </p>
 
 <br>
+<h2 align="center"> ✅Portfolio </h2>
+<div align="center">
+
+|  **Portfolio** ✨ | **CV** 📑 |
+| ----  | ----- |
+|  https://hamza-portfolio-page.netlify.app/ |  https://hamza-portfolio-page.netlify.app/ |
+   
+</div>
+
+<br/>
+
 
 <h2 align="center"> :hammer_and_wrench: Languages and Tools :</h2>
 
@@ -29,6 +41,7 @@
 </div>
 
 <br><br>
+
 
 <h2 align="center"> :fire: My GitHub Stats :</h2>
 
