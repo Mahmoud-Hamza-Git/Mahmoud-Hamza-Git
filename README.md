@@ -14,7 +14,7 @@
 <h3 align="center">  ✅ Portfolio </h3>
 <div align="center">
 
-|  **Portfolio**  | **CV** |
+|  **Portfolio**  | **Resume** |
 | :-----------------:  | :---------: |
 |  [Demo](https://hamza-portfolio-page.netlify.app/) |  [Link](https://drive.google.com/file/d/1vtzDZ4nYpQvkhOBaM-aJC2cDVLUWRc-r/view?usp=drive_link) |
    
