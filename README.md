@@ -16,7 +16,7 @@
 
 |  **Portfolio**  | **Resume** |
 | :-----------------:  | :---------: |
-|  [Demo](https://hamza-portfolio-page.netlify.app/) |  [Link](https://drive.google.com/file/d/1mF0Z0FpE_kOnjm9upiVlf-ns9JAswAVG/view?usp=drive_link) |
+|  [Demo](https://hamza-portfolio-page.netlify.app/) |  [Link](https://drive.google.com/file/d/1p6BMLgQc_rWVr9m192MPEYPEAncYMRm4/view?usp=sharing) |
    
 </div>
 
