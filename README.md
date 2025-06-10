@@ -8,15 +8,15 @@
 ---
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there👋+i'm+Hamza,+I'm+a+👷‍♂️Software+Engineer;💻+currently+learning+node.js+and+react.js&width=540&duration=5000&center=true"></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+I'm+Hamza,+I'm+a+Software+Engineer;Welcome+to+my+GitHub&width=540&duration=5000&center=true"></a>
 </p>
-
+   
 <h3 align="center">  ✅ Portfolio </h3>
 <div align="center">
 
 |  **Portfolio**  | **Resume** |
 | :-----------------:  | :---------: |
-|  [Demo](https://hamza-portfolio-page.netlify.app/) |  [Link](https://drive.google.com/file/d/1p6BMLgQc_rWVr9m192MPEYPEAncYMRm4/view?usp=sharing) |
+|  [Demo](https://hamza-portfolio-page.netlify.app/) |  [Link](https://drive.google.com/file/d/1V0nBaakDz5BTFlR29e7ErR4ieh3LP8DW/view?usp=sharing) |
    
 </div>
 
@@ -46,7 +46,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" **alt="Node.js" width="50" height="50"/>&emsp;&emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="50" height="50"/>&emsp;&emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" **alt="React.js" width="50" height="50"/>&emsp;&emsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" **alt="MySQL" width="50" height="50"/>&emsp;&emsp;
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" **alt="MySQL" width="80" height="80"/>&emsp;&emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="50" height="50"/>&emsp;&emsp;
 </div>
 
